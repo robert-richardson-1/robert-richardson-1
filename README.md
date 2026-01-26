@@ -15,8 +15,8 @@ I'm a student at the University of Notre Dame, and I am learning about data scie
 - 🎓 Currently taking Introduction to Data Science
 - 🌱 Learning Python, pandas, and data visualization
 - 📫 Connect With Me!
-*   📧 : robert.richardson272@gmail.com
-*   🔗 : https://www.linkedin.com/in/robert-richardson-4a0296287/
+    📧 : robert.richardson272@gmail.com
+    🔗 : https://www.linkedin.com/in/robert-richardson-4a0296287/
 
 ## Languages and Tools
 <td>Python<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/python.svg" width="100" title="Python"> <td>R<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/r.svg" width="100" title="R"> <td>Visual Studio Code<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/visualstudiocode.svg" width="100" title="Visual Studio Code">
