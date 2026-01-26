@@ -11,14 +11,14 @@ I'm a student at the University of Notre Dame, and I am learning about data scie
 - 🎓 Currently taking Introduction to Data Science
 - 🌱 Learning Python, pandas, and data visualization
 - 📫 Connect With Me!:
-*   <td>Email<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/email.svg" width="100" title="Email"><br>326 bytes</td> **Email**: robert.richardson272@gmail.com
-*   <td>LinkedIn<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/linkedin.svg" width="100" title="LinkedIn"><br>355 bytes</td> **LinkedIn**: https://www.linkedin.com/in/robert-richardson-4a0296287/
+*   <td>Email<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/email.svg" width="100" title="Email"> **Email**: robert.richardson272@gmail.com
+*   <td>LinkedIn<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/linkedin.svg" width="100" title="LinkedIn"> **LinkedIn**: https://www.linkedin.com/in/robert-richardson-4a0296287/
 
 ## Languages and Tools
-<td>Python<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/python.svg" width="100" title="Python"><br>495 bytes</td>
-<td>R<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/r.svg" width="100" title="R"><br>952 bytes</td>
-<td>Visual Studio Code<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/visualstudiocode.svg" width="100" title="Visual Studio Code"><br>895 bytes</td>
-
+<td>Python<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/python.svg" width="100" title="Python">
+<td>R<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/r.svg" width="100" title="R">
+<td>Visual Studio Code<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/visualstudiocode.svg" width="100" title="Visual Studio Code">
+    
 ## 📊 GitHub Stats
 <!-- Dynamically generated GitHub stats are very popular. You'll need to use your username here. -->
 <p align="center">
