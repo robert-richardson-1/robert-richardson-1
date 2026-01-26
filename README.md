@@ -9,17 +9,6 @@ I'm a student at the University of Notre Dame studying economics & statistics.
 *   **Email**: robert.richardson272@gmail.com
 *   **LinkedIn**: https://www.linkedin.com/in/robert-richardson-4a0296287/ 
 
-
-## 💻 Languages and Tools I Use
-<p align="left">
-    <!-- Replace these with the icons for languages and tools you use. Icons from DevIcon are recommended. -->
-    <!-- Examples: -->
-    <img src="https://cdn.jsdelivr.net" alt="python" width="45" height="45"/>
-    <img src="https://cdn.jsdelivr.net" alt="javascript" width="45" height="45"/>
-    <img src="https://cdn.jsdelivr.net" alt="docker" width="45" height="45"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
-</p>
-
 ## 📊 GitHub Stats
 <!-- Dynamically generated GitHub stats are very popular. You'll need to use your username here. -->
 <p align="center">
