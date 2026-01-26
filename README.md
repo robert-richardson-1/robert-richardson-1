@@ -15,7 +15,7 @@ I'm a student at the University of Notre Dame, and I am learning about data scie
 *   <td>LinkedIn<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/linkedin.svg" width="100" title="LinkedIn"> : https://www.linkedin.com/in/robert-richardson-4a0296287/
 
 ## Languages and Tools
-<td>Python<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/python.svg" width="100" title="Python"> , <td>R<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/r.svg" width="100" title="R"> , <td>Visual Studio Code<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/visualstudiocode.svg" width="100" title="Visual Studio Code">
+<td>Python<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/python.svg" width="100" title="Python"> <td>R<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/r.svg" width="100" title="R"> <td>Visual Studio Code<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/visualstudiocode.svg" width="100" title="Visual Studio Code">
     
 ## 📊 GitHub Stats
 <!-- Dynamically generated GitHub stats are very popular. You'll need to use your username here. -->
