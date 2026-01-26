@@ -4,7 +4,7 @@
 
 # Hi, I'm Robert Richardson! 👋
 
-I'm a student at the University of Notre Dame, and I am learning about data science! I have been looking forward to learning the ins and outs of data science recently, so I am finally taking on the task! Through my studies, I hope to learn further about analysis, presentation, and customization. My goal is to be able to create my own data science projects and display them for others to gain insights!
+I'm a junior at the University of Notre Dame, and I am learning about data science! I have been looking forward to learning the ins and outs of data science recently, so I am finally taking on the task! Through my studies, I hope to learn further about analysis, presentation, and customization. My goal is to be able to create my own data science projects and display them for others to gain insights!
 
 ## Education
 * **(Working Towards) Bachelor of Arts in Economics** - University of Notre Dame 🍀
