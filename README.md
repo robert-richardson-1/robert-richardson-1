@@ -4,7 +4,7 @@
 
 # Hi, I'm Robert Richardson! 👋
 
-I'm a junior at the University of Notre Dame, and I am learning about data science! I have been looking forward to learning the ins and outs of data science recently, so I am finally taking on the task! Through my studies, I hope to learn further about analysis, presentation, and customization. My goal is to be able to create my own data science projects and display them for others to gain insights!
+I'm a junior at the University of Notre Dame, and I am learning about data science! I have been looking forward to learning the ins and outs of data science recently, so I am finally taking on the task! Through my studies, I want to learn further about analysis, presentation, and customization. My goal is to be able to create my own data science projects, display them for others to gain insights, and improve my data storytelling skills!
 
 ## Education
 * **(Working Towards) Bachelor of Arts in Economics** - University of Notre Dame 🍀
@@ -16,7 +16,7 @@ I'm a junior at the University of Notre Dame, and I am learning about data scien
 - 🌱 Learning Python, pandas, and data visualization
 - 📫 Connect With Me!
    - 📧 : robert.richardson272@gmail.com
-   - 🔗 : https://www.linkedin.com/in/robert-richardson-4a0296287/
+   - 🔗 : www.linkedin.com/in/rob-rich
 
 ## Languages and Tools
 <td>Python<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/python.svg" width="100" title="Python"> <td>R<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/r.svg" width="100" title="R"> <td>Visual Studio Code<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/visualstudiocode.svg" width="100" title="Visual Studio Code">
