@@ -20,13 +20,13 @@ I'm a junior at the University of Notre Dame, and I am learning about data scien
 
 ## Languages and Tools
 <td>Python<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/python.svg" width="100" title="Python"> <td>R<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/r.svg" width="100" title="R"> <td>Visual Studio Code<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/visualstudiocode.svg" width="100" title="Visual Studio Code">
-![Python logo](![python logo](https://github.com/user-attachments/assets/32843e30-a868-40ff-9055-355bb6917ba8)
+![Python logo](https://github.com/user-attachments/assets/32843e30-a868-40ff-9055-355bb6917ba8)
 )
 ![R Studio Logo](<img width="225" height="225" alt="r studio logo" src="https://github.com/user-attachments/assets/43315d12-444b-4c8b-a1d5-55302db3ae97" />
 )
-![R Logo](![R logo](https://github.com/user-attachments/assets/992f5519-c851-4e52-86fc-8f60d6014620)
+![R Logo]((https://github.com/user-attachments/assets/992f5519-c851-4e52-86fc-8f60d6014620)
 )
-![VS Code Logo](![vs code logo](https://github.com/user-attachments/assets/79fc6dbf-b85f-4179-85f1-7eccc48a1b24)
+![VS Code Logo]((https://github.com/user-attachments/assets/79fc6dbf-b85f-4179-85f1-7eccc48a1b24)
 )
 ![GitHub Logo](<img width="225" height="225" alt="github logo" src="https://github.com/user-attachments/assets/cdceaefa-8976-4a69-96e7-a944bec9cb0a" />
 )
