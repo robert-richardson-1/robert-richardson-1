@@ -19,8 +19,8 @@ I'm a junior at the University of Notre Dame, and I am learning about data scien
    - 🔗 : www.linkedin.com/in/rob-rich
 
 ## Languages and Tools
-![Python logo](https://github.com/user-attachments/assets/32843e30-a868-40ff-9055-355bb6917ba8) ![R Studio Logo](https://github.com/user-attachments/assets/43315d12-444b-4c8b-a1d5-55302db3ae97) ![R Logo](https://github.com/user-attachments/assets/992f5519-c851-4e52-86fc-8f60d6014620) ![VS Code Logo](https://github.com/user-attachments/assets/79fc6dbf-b85f-4179-85f1-7eccc48a1b24) ![GitHub Logo]("https://github.com/user-attachments/assets/cdceaefa-8976-4a69-96e7-a944bec9cb0a"
-)
+![Python logo](https://github.com/user-attachments/assets/32843e30-a868-40ff-9055-355bb6917ba8) ![R Studio Logo](https://github.com/user-attachments/assets/43315d12-444b-4c8b-a1d5-55302db3ae97) ![R Logo](https://github.com/user-attachments/assets/992f5519-c851-4e52-86fc-8f60d6014620) ![VS Code Logo](https://github.com/user-attachments/assets/79fc6dbf-b85f-4179-85f1-7eccc48a1b24) ![GitHub Logo]("https://github.com/user-attachments/assets/cdceaefa-8976-4a69-96e7-a944bec9cb0a")
+
     
 ## 😄 Fun facts
 *   I love rowing and row collegiately for Notre Dame 🚣
