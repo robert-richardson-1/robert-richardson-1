@@ -25,8 +25,7 @@ I'm a junior at the University of Notre Dame, and I am learning about data scien
 
 ![R Logo](https://github.com/user-attachments/assets/992f5519-c851-4e52-86fc-8f60d6014620)
 
-![VS Code Logo]((https://github.com/user-attachments/assets/79fc6dbf-b85f-4179-85f1-7eccc48a1b24)
-)
+![VS Code Logo](https://github.com/user-attachments/assets/79fc6dbf-b85f-4179-85f1-7eccc48a1b24)
 
 ![GitHub Logo](<img width="225" height="225" alt="github logo" src="https://github.com/user-attachments/assets/cdceaefa-8976-4a69-96e7-a944bec9cb0a" />
 )
