@@ -20,6 +20,11 @@ I'm a junior at the University of Notre Dame, and I am learning about data scien
 
 ## Languages and Tools
 <td>Python<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/python.svg" width="100" title="Python"> <td>R<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/r.svg" width="100" title="R"> <td>Visual Studio Code<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/visualstudiocode.svg" width="100" title="Visual Studio Code">
+![Python logo](python logo.jpeg)
+![R Studio Logo](r studio logo.png)
+![R Logo](R logo.jpeg)
+![VS Code Logo](vs code logo.jpeg)
+![GitHub Logo](github logo.png)
     
 ## 😄 Fun facts
 *   I love rowing and row collegiately for Notre Dame 🚣
