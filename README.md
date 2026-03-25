@@ -29,7 +29,7 @@ I'm a junior at the University of Notre Dame, and I am learning about data scien
 *   I have a love for trivia, specifically sports/NFL-related 🏈
 *   I learned how to sail this past summer ⛵
 *   I really enjoy the story of the S.S. Edmund Fitzgerald 🚢
-
+*   I love a good game of euchre ♦️
 ---
 <p align="center">
 </p>
