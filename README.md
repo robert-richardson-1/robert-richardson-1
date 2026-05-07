@@ -3,7 +3,7 @@
 
 ### 📊 Economics & Statistics student learning to tell stories with data
 
-📍 University of Notre Dame &nbsp;|&nbsp; 📧 [robert.richardson226@gmail.com](mailto:robert.richardson272@gmail.com) &nbsp;|&nbsp; 💼 [LinkedIn](https://www.linkedin.com/in/rob-rich)
+🍀 University of Notre Dame &nbsp;|&nbsp; 📧 [robert.richardson226@gmail.com](mailto:robert.richardson272@gmail.com) &nbsp;|&nbsp; 💼 [LinkedIn](https://www.linkedin.com/in/rob-rich)
 
 ---
 
@@ -71,7 +71,7 @@ Currently finishing my Intro to Data Science course at Notre Dame — building a
 - I have a love for trivia, specifically sports/NFL-related 🏈
 - I learned how to sail this past summer ⛵
 - I really enjoy the story of the S.S. Edmund Fitzgerald 🚢
-- I love a good game of euchre 🃏
+- I love a good game of euchre ♦️
 
 ---
 
