@@ -3,7 +3,7 @@
 
 ### 📊 Economics & Statistics student learning to tell stories with data
 
-🍀 University of Notre Dame &nbsp;|&nbsp; 📧 [robert.richardson226@gmail.com](mailto:robert.richardson272@gmail.com) &nbsp;|&nbsp; 💼 [LinkedIn](https://www.linkedin.com/in/rob-rich)
+🍀 University of Notre Dame &nbsp;|&nbsp; 📧 [robert.richardson272@gmail.com](mailto:robert.richardson272@gmail.com) &nbsp;|&nbsp; 💼 [LinkedIn](https://www.linkedin.com/in/rob-rich)
 
 ---
 
