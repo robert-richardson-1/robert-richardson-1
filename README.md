@@ -58,10 +58,10 @@ Currently finishing my Intro to Data Science course at Notre Dame — building a
 
 | Project | Description | Tools |
 |---|---|---|
-| [Palmer's Penguins Data Exploration](https://github.com/RichardsonND/Richardson-Data-Science-Portfolio) | Interactive Streamlit app for filtering and exploring penguin data by species, island, and physical traits | `streamlit` `pandas` `Python` |
-| [Tidy Data Project](https://github.com/RichardsonND/Richardson-Data-Science-Portfolio) | Cleaned and reshaped the Mutant Moneyball dataset using tidy data principles | `pandas` `Python` `Jupyter` |
-| [Machine-Learning Streamlit App](https://github.com/RichardsonND/Richardson-Data-Science-Portfolio) | Supervised ML app with Decision Tree and Logistic Regression, hyperparameter tuning, and ROC curve visualization | `streamlit` `scikit-learn` `Python` |
-| [Unsupervised ML Streamlit App](https://github.com/RichardsonND/Richardson-Data-Science-Portfolio) | Unsupervised ML app with K-Means clustering and PCA, featuring elbow plots, silhouette analysis, and loadings heatmaps | `streamlit` `scikit-learn` `Python` |
+| [Palmer's Penguins Data Exploration](https://github.com/robert-richardson-1/Richardson-Data-Science-Portfolio/tree/main/basic_streamlit_app) | Interactive Streamlit app for filtering and exploring penguin data by species, island, and physical traits | `streamlit` `pandas` `Python` |
+| [Tidy Data Project](https://github.com/robert-richardson-1/Richardson-Data-Science-Portfolio/blob/main/TidyData-Project/README.md) | Cleaned and reshaped the Mutant Moneyball dataset using tidy data principles | `pandas` `Python` `Jupyter` |
+| [Machine-Learning Streamlit App](https://github.com/robert-richardson-1/Richardson-Data-Science-Portfolio/blob/main/MLStreamlitApp/README.md) | Supervised ML app with Decision Tree and Logistic Regression, hyperparameter tuning, and ROC curve visualization | `streamlit` `scikit-learn` `Python` |
+| [Unsupervised ML Streamlit App](https://github.com/robert-richardson-1/Richardson-Data-Science-Portfolio/blob/main/MLUnsupervisedApp/README.md) | Unsupervised ML app with K-Means clustering and PCA, featuring elbow plots, silhouette analysis, and loadings heatmaps | `streamlit` `scikit-learn` `Python` |
 
 ---
 
