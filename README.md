@@ -9,7 +9,7 @@
 
 ## About Me 🌐
 
-I'm a junior at the University of Notre Dame studying Economics and Statistics with a minor in Data Science. I have been diving into the world of data science — learning the ins and outs of analysis, visualization, and model building. My goal is to create projects that display data in meaningful ways, share insights with others, and continue improving my data storytelling skills.
+I'm a senior at the University of Notre Dame studying Economics and Statistics with a minor in Data Science. I have been diving into the world of data science — learning the ins and outs of analysis, visualization, and model building. My goal is to create projects that display data in meaningful ways, share insights with others, and continue improving my data storytelling skills.
 
 ---
 
