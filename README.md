@@ -15,7 +15,7 @@ I'm a senior at the University of Notre Dame studying Economics and Statistics w
 
 ## What I'm Working On 💡
 
-Currently just finished my Intro to Data Science course at Notre Dame — I built a portfolio of interactive Python apps using Streamlit, covering everything from exploratory data analysis to supervised and unsupervised machine learning.
+Currently just finished my Intro to Data Science course at Notre Dame — I built a portfolio of interactive Python apps using Streamlit, covering everything from exploratory data analysis to supervised and unsupervised machine learning. Now, I'm working on my own personal type of projects on things that I'm interested in. Check it out!
 
 ---
 
